@@ -13,5 +13,7 @@ namespace UniEvents.Models
         public string Email { get; set; }
         public DateTime DataNascimento { get; set; }
         public String Senha { get; set; }
+
+        public string bla { get; set; }
     }
 }
